@@ -1,41 +1,29 @@
-# 👋 Hi, I’m Andre (andreapillai)
+# 👋 Hi, I'm Andre
 
-I’m a **Technical Writer & Educator** with 15+ years of bilingual teaching experience and a recent certification from **Technical Writer HQ**.  
-I’m pivoting into tech writing with a focus on **docs-as-code workflows**, developer documentation, and user-centered guides.
-
-💡 I combine my background in **teaching** with my love of **technology** to make complex tools and workflows accessible, clear, and enjoyable.
+I've been a teacher for 15+ years. These days I also build software: small, thoughtful apps,
+often for problems I've run into myself in the classroom or at home.
 
 ---
 
-## 🔧 Tech & Tools I Work With
-- **Docs-as-Code**: Markdown, MkDocs (Material), Git/GitHub
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Writing & Editing**: API References, Quick Start Guides, FAQs, Knowledge Base Articles, Release Notes  
+## 🛠️ What I'm building
+
+- **TakeMeBack 🎧**
+  A slow-listening album companion. Pick an artist and it hands their albums back to you one at a time, at a deliberate pace.
+  It doesn't stream music. It just points you somewhere to listen.
+
+- **Tools for teachers 🍎**
+  Small apps that take the busywork out of teaching, so there's more time for the actual lessons.
 
 ---
 
-## 📚 Featured Projects
-- [**ComicVault Capstone Project | TWHQ**]([https://github.com/andreapillai/comicvault-docs](https://docs.google.com/document/d/1TJ3vH2tXzF3lBScTeBRzcnMYxgm4GrVsQrup_G6y_qg/edit?usp=sharing))  
-   A complete documentation set — Quick Start Guide, FAQ, PRD, Release Notes, and API Reference — created as my **final capstone for the Technical Writer HQ certification**.
-  
-- [**Syntax Shift**](https://syntaxshift.net)  
-  My professional brand for technical writing and communication coaching.
+## 🔧 Tools I use
+
+TypeScript · React · Next.js · Python · Supabase · Git/GitHub
 
 ---
 
-## 🌍 About Me
-- 📍 Based in Italy, working **remote-first**  
-- 🎯 Seeking roles in **software documentation**, **developer tools**, and **knowledge management**  
-- ✍️ Writing about my journey into tech writing on my blog  
-- 🗨️ Native in **English** and **Italian**
+## 🌍 About me
 
----
-
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/andreapillai)  
-- [Portfolio](https://syntaxshift.net)  
-- GitHub: you’re already here 😉
-
----
-
-✨ _"Documentation should empower users, not overwhelm them."_  
+- 📍 Based in Italy
+- 🗨️ Bilingual: **English** and **Italian**
+- ✏️ Teaching taught me to explain things simply. I try to build apps the same way.
